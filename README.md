@@ -1,6 +1,6 @@
 # LCD1in8
 
-Used to test landscape display
+Used to test portrait display
 
 # Package product
 
