@@ -1,7 +1,10 @@
 # LCD1in8
 
+Used to test landscape display
 
 # Package product
+
+www.mcufriend.com
 
 # test
 Test can refer to test.ts
